@@ -1,0 +1,11 @@
+body{margin:0;font-family:system-ui,sans-serif;background:#141210;color:#e6dfd3;line-height:1.5}
+header,main,footer{max-width:960px;margin:auto;padding:1rem}
+h1{color:#d9a95b}h1 small{font-size:.5em;color:#aaa}h2{color:#d9a95b;border-bottom:1px solid #443}
+nav a{color:#e6dfd3;margin-right:.8rem}a{color:#e8b86a}
+.note{background:#2a2218;padding:.5rem;border-left:3px solid #d9a95b}
+input[type=search]{width:100%;padding:.6rem;font-size:1rem;background:#222;color:#fff;border:1px solid #555}
+table{width:100%;border-collapse:collapse}td,th{border:1px solid #333;padding:.4rem;text-align:left;vertical-align:top}
+.spw{display:inline}.spbtn{background:#3a2a14;color:#ffd38a;border:1px solid #d9a95b;border-radius:4px;cursor:pointer;padding:.15rem .5rem;font:inherit}
+.spbtn:focus{outline:2px solid #fff}.spc[hidden]{display:none}.spc{background:#221c14}
+#filter button{background:#222;color:#eee;border:1px solid #555;padding:.3rem .7rem;cursor:pointer}#filter button[aria-pressed=true]{background:#d9a95b;color:#000}
+.skjult{display:none}mark{background:#d9a95b}
